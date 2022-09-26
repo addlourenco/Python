@@ -61,3 +61,8 @@ Aula 8:
 1. Aprender a utilizar e interagir com módulos
 2. Entender a importância de se utilizar módulos
 3. Aprender sobre funções anônimas
+
+Aula 9:
+1. Aprender a ler e escrever arquivos
+2. Manipular informações dos arquivos
+3. Copiar e mover arquivos
