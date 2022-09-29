@@ -66,3 +66,42 @@ Aula 9:
 1. Aprender a ler e escrever arquivos
 2. Manipular informações dos arquivos
 3. Copiar e mover arquivos
+
+Aula 10:
+1. Aprender a manipular data e hora
+2. Realizar conversão de texto para data e vice versa
+3. Realizar soma e subtração em datas
+
+Detalhes da aula:
+- Como recuperar a data atual(DATE)
+- Como trabalhar com a data, alterando sua formatação.
+- Como gerar um horário (TIME)
+- Retornar data e hora atual (DATETIME)
+- Alterar formação do DATETIOME
+- Realizar soma e subtração de datas com TIMEDELTA
+
+Aula 11: 
+1. Aprender a utilizar tratamento de exceções
+2. Entender a importância de se utilizar exceções
+3. Aprender a customizar exceções
+
+Detalhes da aula:
+- Como lançar uma exceção genérica
+- Utilizar exceções específicas
+- Encadeamento de exeções
+- Else e Finally
+- Criação de exceções customizadas
+
+Aula 12:
+1. Entender o que são pacotes
+2. Aprender a instalar e utilizar pacotes
+3. Aprender a fazer requisições http (chamada de APIs)
+
+Detalhes da aula:
+- O que são pacotes.
+- O que é o instalador de pacote do Python (PIP).
+- Como instalar um pacote no Python.
+- Como listar pacotes instalados no Python
+- Como utilizar um pacote
+- Instalar nosso primeiro pacote (Requests)
+- Realizar uma requisição http com request
