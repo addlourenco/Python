@@ -37,7 +37,7 @@ Conversões de listas e tuplas
 Aula 6:
 1. Aprender sobre conjuntos
 2. Aprender manipular conjuntos
-3. Apicabilidade de conjuntos
+3. Aplicabilidade de conjuntos
 
 O que é um conjunto?
 Método de união
